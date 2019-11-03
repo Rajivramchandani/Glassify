@@ -1711,7 +1711,7 @@ header.light:not(.sticky):not(.scrolled) .header_bottom_right_widget_holder a.qb
     margin-top: 0;
     position: relative;
     z-index: 100;
-    background-color: #f6f6f6;
+    background-color: white;
 }
 .content.content_top_margin {
     margin-top: 100px!important;
@@ -3225,10 +3225,10 @@ section.parallax_section_holder {
 }
 .portfolio_slider .image_holder .separator.small {
     margin: 10px auto;
-    background-color: #fff;
+    background-color:white;
 }
 .projects_holder article .hover_feature_holder_title .separator.small, .projects_masonry_holder article .hover_feature_holder_title .separator.small {
-    background-color: #fff;
+    background-color:white;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -3237,16 +3237,16 @@ section.parallax_section_holder {
     margin-bottom: 10px;
 }
 .wpb_column>.wpb_wrapper .portfolio_slider .image_holder .separator.small {
-    background-color: #fff;
+    background-color: white;
 }
 .portfolio_slider .image_holder .separator.small.transparent {
     background-color: transparent!important;
 }
 .projects_holder.hover_text article .hover_feature_holder_title .separator {
-    background-color: #fff;
+    background-color:#white;
 }
 .projects_holder.hover_text article .hover_feature_holder_title .portfolio_title a, .projects_holder.hover_text article span.text_holder span.text_inner .hover_feature_holder_title .project_category {
-    color: #fff;
+    color: white;
 }
 .projects_holder.hover_text article span.text_holder span.text_inner .hover_feature_holder_title .project_category {
     font-weight: 500;

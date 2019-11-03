@@ -45,7 +45,7 @@
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
 													href=""
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825"  
 															src="images/photography glasses front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -60,15 +60,14 @@
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a href="/product.php?product=Recomended_1"
-														target="_self">so yo're into capturing</a></h5><span
+														target="_self" ">so yo're into capturing</a></h5><span
 													class="project_category">Art, Photography</span>
 											</div>
 										</article>
 										<article class="mix portfolio_category_17 portfolio_category_2  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/berlin-design-week-poster/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/sun geometric front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -91,8 +90,7 @@
 										<article class="mix portfolio_category_2  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/venice-art-pavilion/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/square front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -158,8 +156,7 @@
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/thick glasses front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -182,8 +179,7 @@
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/low shade front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -206,8 +202,7 @@
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/rimless-front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -218,10 +213,7 @@
 																		title="Stockholm Fashion"
 																		href="images/rimless-front.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
@@ -233,8 +225,7 @@
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/round front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -257,8 +248,7 @@
 										<article class="mix portfolio_category_17 portfolio_category_2  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/berlin-design-week-poster/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/cateye-front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -281,8 +271,7 @@
 										<article class="mix portfolio_category_2  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/venice-art-pavilion/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/browline-front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -343,8 +332,7 @@
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
 															src="images/aviator front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
@@ -355,10 +343,7 @@
 																		title="Stockholm Fashion"
 																		href="images/aviator front.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
@@ -370,9 +355,8 @@
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
-															src="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stockholm-fashion-destination-last-iceland-sunshine.jpg"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
+															src="images/sun cateye front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
 													class="text_holder"><span class="text_outer"><span
@@ -380,26 +364,22 @@
 																	class="feature_holder_icons"><a
 																		class="lightbox qbutton small white"
 																		title="Stockholm Fashion"
-																		href="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stockholm-fashion-destination-last-iceland-sunshine.jpg"
+																		href="images/sun cateye front.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
 														href="/product.php?product=Sunglasses_2"
-														target="_self">Stockholm Fashion</a></h5><span
+														target="_self">Who you impressing?</a></h5><span
 													class="project_category">Art, Photography</span>
 											</div>
 										</article>
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
-															src="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stockholm-fashion-destination-last-iceland-sunshine.jpg"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
+															src="images/sun aviator.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
 													class="text_holder"><span class="text_outer"><span
@@ -407,26 +387,22 @@
 																	class="feature_holder_icons"><a
 																		class="lightbox qbutton small white"
 																		title="Stockholm Fashion"
-																		href="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stockholm-fashion-destination-last-iceland-sunshine.jpg"
+																		href="images/sun aviator.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
 														href="/product.php?product=Sunglasses_3"
-														target="_self">Stockholm Fashion</a></h5><span
+														target="_self">Double support</a></h5><span
 													class="project_category">Art, Photography</span>
 											</div>
 										</article>
 										<article class="mix portfolio_category_17 portfolio_category_5  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-													target="_self"><span class="image"><img width="1100" height="825"
-															src="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stockholm-fashion-destination-last-iceland-sunshine.jpg"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
+															src="images/sun rectangle front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
 													class="text_holder"><span class="text_outer"><span
@@ -434,26 +410,22 @@
 																	class="feature_holder_icons"><a
 																		class="lightbox qbutton small white"
 																		title="Stockholm Fashion"
-																		href="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stockholm-fashion-destination-last-iceland-sunshine.jpg"
+																		href="images/sun rectangle front.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/stockholm-fashion-destination/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
 														href="/product.php?product=Sunglasses_4"
-														target="_self">Stockholm Fashion</a></h5><span
+														target="_self">Driving Somewhere?</a></h5><span
 													class="project_category">Art, Photography</span>
 											</div>
 										</article>
 										<article class="mix portfolio_category_17 portfolio_category_2  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/berlin-design-week-poster/"
-													target="_self"><span class="image"><img width="1100" height="825"
-															src="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-design-of-total-mechanics-berlin-design-week-poster.jpg"
+												target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
+															src="images/sun round front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
 													class="text_holder"><span class="text_outer"><span
@@ -461,26 +433,22 @@
 																	class="feature_holder_icons"><a
 																		class="lightbox qbutton small white"
 																		title="Berlin Design Week"
-																		href="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-design-of-total-mechanics-berlin-design-week-poster.jpg"
+																		href="images/sun round front.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/berlin-design-week-poster/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
 														href="/product.php?product=Sunglasses_5"
-														target="_self">Berlin Design Week</a></h5><span
+														target="_self">Sunny days</a></h5><span
 													class="project_category">Art, Business</span>
 											</div>
 										</article>
 										<article class="mix portfolio_category_2  mix_all"
 											style="display: inline-block; opacity: 1;">
 											<div class="image_holder"><a class="portfolio_link_for_touch"
-													href="http://demo.qodeinteractive.com/bridge/portfolio_page/venice-art-pavilion/"
-													target="_self"><span class="image"><img width="1100" height="825"
-															src="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stv-music-awards-2013-venice-art-pavilion.jpg"
+													target="_self"><span class="image"><img width="1100" height="825" style="padding-top: 30px; padding-bottom: 30px;"
+															src="images/sun square front.jpg"
 															class="attachment-full wp-post-image"
 															alt="qode interactive strata"></span></a><span
 													class="text_holder"><span class="text_outer"><span
@@ -488,17 +456,14 @@
 																	class="feature_holder_icons"><a
 																		class="lightbox qbutton small white"
 																		title="Venice Art Pavilion"
-																		href="http://demo.qodeinteractive.com/bridge/wp-content/uploads/2013/10/p-stv-music-awards-2013-venice-art-pavilion.jpg"
+																		href="images/sun square front.jpg"
 																		data-rel="prettyPhoto[pretty_photo_gallery]"
-																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a><a
-																		class="preview qbutton small white"
-																		href="http://demo.qodeinteractive.com/bridge/portfolio_page/venice-art-pavilion/"
-																		target="_self">view</a></span></span></span></span></span>
+																		rel="prettyPhoto[pretty_photo_gallery]">zoom</a></span></span></span></span></span>
 											</div>
 											<div class="portfolio_description ">
 												<h5 class="portfolio_title"><a
-														href="/Template ecommerce/product.php?product=Sunglasses_6"
-														target="_self">Venice Art Pavilion</a></h5><span
+														href="/product.php?product=Sunglasses_6"
+														target="_self">wow thats generic</a></h5><span
 													class="project_category">Business</span>
 											</div>
 										</article>
@@ -532,13 +497,13 @@
 						<!-- team-img -->
 						<div class="team-block">
 							<div class="team-img">
-								<img src="https://easetemplate.com/free-website-templates/motion/images/team_member_1.jpg"
+								<img src="images/riya.jpg"
 									alt="">
 
 								<div class="overlay">
 									<div class="text">
-										<h4 class="mb0 text-white">Eliza Simon</h4>
-										<p class="team-meta">- Producer</p>
+										<h4 class="mb0 text-white">Riya Chaudhary</h4>
+										<p class="team-meta">- Backend trickster</p>
 										<p></p>
 									</div>
 								</div>
@@ -552,13 +517,13 @@
 						<!-- team-img -->
 						<div class="team-block">
 							<div class="team-img">
-								<img src="https://easetemplate.com/free-website-templates/motion/images/team_member_3.jpg"
+								<img src="images/rajiv.jpg"
 									alt="" class="img-fluid">
 
 								<div class="overlay">
 									<div class="text">
-										<h4 class="mb0 text-white">William Murphy</h4>
-										<p class="mb40 team-meta">- Project Manager</p>
+										<h4 class="mb0 text-white">Rajiv Ramchandani</h4>
+										<p class="mb40 team-meta">- UX/UI and backend</p>
 										<p></p>
 									</div>
 								</div>
@@ -570,14 +535,14 @@
 						<!-- team-img -->
 						<div class="team-block">
 							<div class="team-img">
-								<img src="https://easetemplate.com/free-website-templates/motion/images/team_member_4.jpg"
+								<img src="images/adith.jpg"
 									alt="" class="img-fluid">
 
 								<div class="overlay">
 									<div class="text">
 
-										<h4 class="text-white mb0">Barbara Cook</h4>
-										<p class="mb30 team-meta">- Producer</p>
+										<h4 class="text-white mb0">Adith Sanjeev</h4>
+										<p class="mb30 team-meta">- Testing</p>
 										<p></p>
 									</div>
 								</div>
@@ -590,13 +555,13 @@
 						<!-- team-img -->
 						<div class="team-block">
 							<div class="team-img">
-								<img src="https://easetemplate.com/free-website-templates/motion/images/team_member_6.jpg"
+								<img src="images/revin.jfif"
 									alt="" class="img-fluid">
 
 								<div class="overlay">
 									<div class="text">
-										<h4 class="text-white mb0">Lucille Webster</h4>
-										<p class="team-meta">- Cinematographer + Steadicam Operator</p>
+										<h4 class="text-white mb0">Revin Raina</h4>
+										<p class="team-meta">- Database Entry and Diagrams</p>
 										<p></p>
 									</div>
 								</div>

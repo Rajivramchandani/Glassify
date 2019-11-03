@@ -6,7 +6,7 @@
 body{
   overflow-x: hidden;
 font-family: 'Quicksand', sans-serif;
-background-color: lightgray !important;
+background-color: white !important;
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -26,6 +26,7 @@ background-size: cover;
 }
 .navbar-nav li{
   padding-right: 0.7rem;
+  color: white;
 }
 .navbar-dark .navbar-nav .nav-link{
   color: white;
