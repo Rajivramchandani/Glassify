@@ -1,0 +1,88 @@
+
+
+.navbar-brand img {
+  height:4rem;
+}
+body{
+  overflow-x: hidden;
+font-family: 'Quicksand', sans-serif;
+background-color: lightgray !important;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.navbar{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  background-color: rgb(0,0,0,0.6)!important;
+  padding-right: 30px;
+}
+.navbar-brand img{
+  height: 3rem;
+  padding-left: 70px;
+  padding-top:7px;
+}
+.navbar-nav li{
+  padding-right: 0.7rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color: white;
+  padding-top: 0.8rem;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: cyan;
+}
+/*landing page*/
+
+.caption{
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 38%;
+  z-index: 1;
+  color: white;
+  text-transform: uppercase;
+}
+
+.caption h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: .3rem;
+  text-shadow: .5rem .5rem .8rem black;
+  padding-bottom: 1rem;
+}
+.caption h3{
+  font-style: 2rem;
+  text-shadow: .5rem .5rem .5rem black;
+  padding-bottom: 1.6rem;
+
+}
+.btn-lg{
+  border-width: medium;
+  border-radius: 0; 
+  padding :.8rem 1.3;
+  font-size: 1.1rem;
+}
+
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============*/
